@@ -18,7 +18,7 @@ Don’t hesitate to contact me if you need help! 😊
 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvelez1&count_private=true&show_icons=true&theme=dark&hide=stars" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvelez1&count_private=true&show_icons=true&theme=dark" />
 </p>
 
 
