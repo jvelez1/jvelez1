@@ -16,12 +16,6 @@ Don’t hesitate to contact me if you need help! 😊
 </p>
 
 
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvelez1&count_private=true&show_icons=true&theme=dark" />
-</p>
-
-
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvelez1&layout=compact&hide=html,css" />
 </p>
