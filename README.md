@@ -17,6 +17,6 @@ Don’t hesitate to contact me if you need help! 😊
 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvelez1&layout=compact&hide=html,css" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvelez1&layout=compact&hide=html,css,javascript" />
 </p>
 
