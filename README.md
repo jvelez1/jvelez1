@@ -7,7 +7,7 @@ I’m a pragmatic software engineer with over 8 years of experience as a Backend
 
 I have experience working in Fast-Growing YC Startups from their initial stage to big investment round achievement, following CI/CD practices, software methodologies, and agile.
 
-I worked for projects in Venezuela, Perú, México, Spain, and remotely. Currently, I’m working Remote.com. I’m fast learning, dedicated, with good communication skills.
+I worked for projects in Venezuela, Perú, México, Spain, and remotely. Currently, I’m working at Remote.com. I’m fast learning, dedicated, with good communication skills.
 
 Don’t hesitate to contact me if you need help! 😊
 
